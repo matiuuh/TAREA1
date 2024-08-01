@@ -1,0 +1,7 @@
+Primera imagen:
+4
+2
+
+Segunda imagen:
+posee 4 elementos, los imrpime en este orden:
+100, 40, 60, 10
